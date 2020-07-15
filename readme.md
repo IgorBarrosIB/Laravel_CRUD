@@ -69,3 +69,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Informações
+
+<h1> Laravel - Primeiro CRUD </h1>
+<p>Este projeto tem como objetivo apredizagem do framework Laravel, foi desenvolvido um CRUD de cadastro de Imóveis.</p>
+<p>CRUD desenvolvido durante o curso de Laravel da <a href="https://www.upinside.com.br/">upinside</a></p>
