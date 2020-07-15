@@ -1,17 +1,21 @@
-## Informações
-
-<h1> Laravel - Primeiro CRUD </h1>
-<p>Este projeto tem como objetivo apredizagem do framework Laravel, foi desenvolvido um CRUD de cadastro de Imóveis.</p>
-<p>CRUD desenvolvido durante o curso de Laravel da <a href="https://www.upinside.com.br/">upinside</a></p>
-
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+
+
+## Informações
+
+<h1> Laravel - Primeiro CRUD </h1>
+<p>Este projeto tem como objetivo apredizagem do framework Laravel, foi desenvolvido um CRUD de cadastro de Imóveis.</p>
+<p>CRUD desenvolvido durante o curso de Laravel da <a href="https://www.upinside.com.br/">upinside</a></p>
+
+## Projeto desenvolvido
+![Capturar](https://user-images.githubusercontent.com/35607345/87564635-038aa280-c697-11ea-94fa-d22e3c217d27.PNG)
+
 
 ## About Laravel
 
