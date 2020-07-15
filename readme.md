@@ -1,3 +1,9 @@
+## Informações
+
+<h1> Laravel - Primeiro CRUD </h1>
+<p>Este projeto tem como objetivo apredizagem do framework Laravel, foi desenvolvido um CRUD de cadastro de Imóveis.</p>
+<p>CRUD desenvolvido durante o curso de Laravel da <a href="https://www.upinside.com.br/">upinside</a></p>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -70,8 +76,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## Informações
 
-<h1> Laravel - Primeiro CRUD </h1>
-<p>Este projeto tem como objetivo apredizagem do framework Laravel, foi desenvolvido um CRUD de cadastro de Imóveis.</p>
-<p>CRUD desenvolvido durante o curso de Laravel da <a href="https://www.upinside.com.br/">upinside</a></p>
